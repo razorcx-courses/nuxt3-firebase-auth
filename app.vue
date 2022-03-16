@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="container mt-6" v-if="!firebaseUser">
-      <div class="column is-half">
+      <div class="column is-half is-offset-one-quarter">
         <AuthFirebase
           class="box px-5 py-5 mx-4"
           title="Register"
