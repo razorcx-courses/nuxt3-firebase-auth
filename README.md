@@ -1,29 +1,31 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 / Firebase Auth Starter
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+Nuxt 3 Getting Started
+https://v3.nuxtjs.org/getting-started/introduction
+
+Get Started with Firebase Authentication on Websites 
+https://firebase.google.com/docs/auth/web/start
 
 ## Setup
 
 Make sure to install the dependencies
 
-```bash
-yarn install
+```
+npm install
 ```
 
 ## Development
 
 Start the development server on http://localhost:3000
 
-```bash
-yarn dev
+```
+npm run dev
 ```
 
 ## Production
 
 Build the application for production:
 
-```bash
-yarn build
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+npm run build
+```
